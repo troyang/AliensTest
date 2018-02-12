@@ -1,0 +1,21 @@
+
+body {
+  font-family: arial;
+  text-align: 	center;	
+}
+
+.hide {
+  display: none;
+}
+
+p {
+  font-weight: bold;
+}
+
+table{
+	margin: 0 auto;
+}
+
+th{
+	padding: 10px;
+}
