@@ -1,0 +1,1 @@
+[{"type":"Alien","materials":"bad","state":"declined","mood":null},{"type":"Asocial","materials":"bad","state":"declined","mood":null},{"type":"Human","materials":"good","state":"accepted","mood":"happy"},{"type":"Asocial","materials":"good","state":"accepted","mood":"happy"},{"type":"Human","materials":"bad","state":"accepted","mood":"sad"}]
